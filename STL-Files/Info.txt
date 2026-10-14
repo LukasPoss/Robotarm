@@ -9,3 +9,11 @@
 1x ESP32 S3 Wroom Modell
 25x M3x10mm Schrauben (am Besten Linsenkopf Schrauben um die Bauhöhe zu reduzieren)
 1kg PETG 3D Druck Filament
+
+
+----------------------------------------------------------------------------------------
+Die Datei arm_verlaengerung.stl ist optional anzusehen und wird nur benötigt, wenn der Roboterarm für seinen späteren Einsatzzweck eine erweiterte Reichweite benötigt.
+
+servo_motoren_zahnrad.stl muss 3x gedruckt werden.
+motoren_gegenhalter.stl muss 3x gedruckt werden.
+ausgleichscheibe.stl muss 2x gedruckt werden.
