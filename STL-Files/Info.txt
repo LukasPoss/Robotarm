@@ -1,0 +1,11 @@
+És werden benötigt um den Roboterarm zusammenzusetzen:
+
+5x MG90S Metall Getriebe Servo Motoren mit continous Rotation Umbau
+1x SG90 Servo Motor mit continous Rotation Umbau (optional auch einfach ein weitere MG90S)
+5x 8MM Aluminium Hohlwelle ( wichtig für die Kabelführung)
+10x 608 Kugellager am besten aus Kunststoff um Gewicht einzusparen
+5x Potentiometer ( Teilenummer folgt)
+1x 5v 90Watt Netzteil
+1x ESP32 S3 Wroom Modell
+25x M3x10mm Schrauben (am Besten Linsenkopf Schrauben um die Bauhöhe zu reduzieren)
+1kg PETG 3D Druck Filament
